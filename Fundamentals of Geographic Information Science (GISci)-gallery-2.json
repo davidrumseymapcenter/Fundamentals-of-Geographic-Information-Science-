@@ -1,0 +1,1827 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@type": "sc:Collection",
+  "@id": "https://iiif-gallery-builder.example.org/Fundamentals of Geographic Information Science (GISci)",
+  "label": "Fundamentals of Geographic Information Science (GISci)",
+  "items": [
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@type": "sc:Manifest",
+      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~362922~90130255/manifest",
+      "label": "Composite Map: Wind and current chart of the North Atlantic : 3d. Edition 1852, Series A.",
+      "attribution": "David Rumsey Historical Map Collection",
+      "service": {
+        "@context": "http://iiif.io/api/search/1/context.json",
+        "@id": "https://www.davidrumsey.com/luna/servlet/iiif/services/RUMSEY~8~1~362922~90130255/search",
+        "profile": "http://iiif.io/api/search/1/search"
+      },
+      "sequences": [
+        {
+          "@type": "sc:Sequence",
+          "canvases": [
+            {
+              "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~362922~90130255/canvas/c1",
+              "@type": "sc:Canvas",
+              "label": "Composite Map: Wind and current chart of the North Atlantic : 3d. Edition 1852, Series A.",
+              "description": "",
+              "metadata": [
+                {
+                  "label": "Author",
+                  "value": "Maury, Matthew Fontaine, 1806-1873"
+                },
+                {
+                  "label": "Author",
+                  "value": "Warrington, L. (Lewis), 1782-1851"
+                },
+                {
+                  "label": "Author",
+                  "value": "Whiting, William B."
+                },
+                {
+                  "label": "Date",
+                  "value": "1852"
+                },
+                {
+                  "label": "Short Title",
+                  "value": "Composite Map: Wind and current chart of the North Atlantic : 3d. Edition 1852, Series A."
+                },
+                {
+                  "label": "Publisher",
+                  "value": "U.S. Hydrographic Office, Bureau of Navigation, Navy Department"
+                },
+                {
+                  "label": "Publisher Location",
+                  "value": "Washington, D.C."
+                },
+                {
+                  "label": "Type",
+                  "value": "Composite Map"
+                },
+                {
+                  "label": "Obj Height cm",
+                  "value": "184"
+                },
+                {
+                  "label": "Obj Width cm",
+                  "value": "244"
+                },
+                {
+                  "label": "Scale 1",
+                  "value": "5,100,000"
+                },
+                {
+                  "label": "Note",
+                  "value": "Composite nautical chart representing the North Atlantic Ocean. In eight consecutive sheets. Shows place names, bodies of water, drainage, coastlines, islands, ocean currents, and wind. Includes latitudinal and longitudinal lines, as well as explanatory notes and a legend indicating such elements as a fresh breeze, a light breeze, and a very light breeze. With the seal of the United States Hydrographical Office. \"Entered according to act of Congress in the year 1850 by M.F. Maury in the Clerks Office of the District Court of the southern district of New York.” Color lithograph. All together, chart is 180 x 244 cm, on eight double sheets, together 184 x 260 cm."
+                },
+                {
+                  "label": "Region",
+                  "value": "North Atlantic Ocean"
+                },
+                {
+                  "label": "Subject",
+                  "value": "Nautical Charts"
+                },
+                {
+                  "label": "Subject",
+                  "value": "Weather"
+                },
+                {
+                  "label": "Subject",
+                  "value": "Data Visualization"
+                },
+                {
+                  "label": "Full Title",
+                  "value": "(Composite Map to) Wind and current chart of the North Atlantic : 3d. Edition 1852, Series A. By M.F. Maury L.L.D. Lieut. U.S. Navy. Superintdt. of U.S.N. Observatory, Washington. Compiled from materials in the Bureau of Ordinance and Hydrography. Commodore Lewis Warrington, Chief of Bureau. Drawn by Lt. W.B. Whiting, U.S.N. 1852. Engrd by Sherman & Smith, N.Y. Colored tracks lithod. by Wm. Endicott & Co., N.Y."
+                },
+                {
+                  "label": "List No",
+                  "value": "14494.010"
+                },
+                {
+                  "label": "Series No",
+                  "value": "10"
+                },
+                {
+                  "label": "Page No",
+                  "value": "1-8"
+                },
+                {
+                  "label": "Engraver or Printer",
+                  "value": "Sherman & Smith"
+                },
+                {
+                  "label": "Engraver or Printer",
+                  "value": "W. Endicott & Co."
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Maury, Matthew Fontaine, 1806-1873"
+                },
+                {
+                  "label": "Pub Date",
+                  "value": "1854"
+                },
+                {
+                  "label": "Pub Title",
+                  "value": "Maury, M.F. Wind and current charts of the Atlantic. Wash. 1852 x 53 fol."
+                },
+                {
+                  "label": "Pub Note",
+                  "value": "Maury, M.F. Wind and current charts of the Atlantic. Wash. 1852 x 53 fol. Atlas factice. Bound in black cloth with leather corners and spine. Gilt spine title. With seal on front cover: Maury Atlanterhavet. Handwritten title pasted onto front cover. The charts within the volume were published by the U.S. Hydrographic Office, Bureau of Navigation, Navy Department, Washington, D.C., 1852-1854. The atlas was compiled at a later date, accounting for the inconsistent pagination. First two pages stamped with the seal of the The Royal Danish Chart Archive: “Det Kongelige Danske Søkort Arkiv”. Atlas comprised of 39 hydrographic charts representing the Atlantic Ocean. Charts show place names, bodies of water, drainage, coastlines, islands, ocean currents, water temperature, wind, and regions frequented by sperm and right whales. The charts were produced by Matthew Fontaine Maury, then serving as Lieutenant in the U.S. Navy, under the auspices of the U.S. Hydrographic Office. The charts incorporate data that Maury initially compiled from ships' logs stored at the Navy's Depot of Charts and Instruments, which later became the Naval Observatory. Maury then obtained massive amounts of navigational, hydrographic, and meteorological data from the recent voyages of Navy and commercial ships, whose officers submitted the information on specially designed abstract logs created by Maury, in return for free copies of the Wind and current charts. This was the age of the great Clipper Ships, whose captains prized Maury's charts. By following the wind and current directions, the captains were able to shorten their voyages from North American ports to the Far East. Each vessel’s name, tracks, and dates are given on the charts. One such track depicts the USS Brandywine in 1829, on which Maury served as a midshipman. Using an ingenious set of symbols for winds (small brushes), currents (arrows), water temperatures (simple numerals), and adding color coding for the seasons, Maury was able to present an enormous volume of data in a small area. Six types of charts were produced: Series A, Track charts — Series B, Trade wind charts — Series C, Pilot charts — Series D, Thermal charts — Series E, Storm and rain charts — Series F, Whale charts. For a comprehensive discussion of the series and listing of all charts known to have been produced, see The wind and current chart series produced by Matthew Fontaine Maury by Marc I. Pinsel, in Navigation : Journal of the Institute of Navigation, v. 28, no. 2 (Summer, 1981), p. 123-137. The insignia of the U.S. Hydrographical Office appears on most of the charts. Maury was the chief naval officer in charge of charts from 1843 to 1861. His seminal work on ocean currents and related atmospheric phenomena commenced in 1847, with the publication of his map of the currents of the North Atlantic (Schwartz & Ehrenberg, 278) and culminated with The Physical Geography of the Sea, published in 1855. His work describing seasonal winds and currents was conceived largely outside conventional academic circles. Maury was made an honorary member of the Boston Marine Society, where his portrait was hung, and later turned upside down when he elected to join the Confederacy during the American Civil War. Historical notes from the University of Wisconsin, Milwaukee, Libraries and Barry Lawrence Ruderman, Antique Maps Inc. https://collections.lib.uwm.edu/digital/collection/agdm/id/1483/ https://www.raremaps.com/gallery/detail/35099mb/wind-and-current-chart-of-the-north-atlantic-by-mf-maury-maury"
+                },
+                {
+                  "label": "Pub List No",
+                  "value": "14494.000"
+                },
+                {
+                  "label": "Pub Type",
+                  "value": "Chart Atlas"
+                },
+                {
+                  "label": "Pub Type",
+                  "value": "Regional Atlas"
+                },
+                {
+                  "label": "Pub Maps",
+                  "value": "54"
+                },
+                {
+                  "label": "Pub Height cm",
+                  "value": "66"
+                },
+                {
+                  "label": "Pub Width cm",
+                  "value": "50"
+                },
+                {
+                  "label": "Image No",
+                  "value": "14494010.jp2"
+                },
+                {
+                  "label": "Download 1",
+                  "value": "<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/213/14494010.jp2 target=_blank>Full Image Download in JP2 Format</a>"
+                },
+                {
+                  "label": "Download 2",
+                  "value": "<a href=https://www.extensis.com/support/geoviewer-9 target=_blank >GeoViewer for JP2 and SID files</a>"
+                },
+                {
+                  "label": "Authors",
+                  "value": "Maury, Matthew Fontaine, 1806-1873; Warrington, L. (Lewis), 1782-1851; Whiting, William B."
+                }
+              ],
+              "thumbnail": {
+                "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~362922~90130255/full/!96,96/0/default.jpg",
+                "format": "image/jpeg"
+              },
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "motivation": "sc:painting",
+                  "resource": {
+                    "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~362922~90130255/full/!1024,1024/0/default.jpg",
+                    "@type": "dctypes:Image",
+                    "service": {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~362922~90130255",
+                      "profile": "http://iiif.io/api/image/2/level1.json",
+                      "protocol": "http://iiif.io/api/image"
+                    },
+                    "format": "image/jpeg",
+                    "width": 33159,
+                    "height": 25627
+                  },
+                  "on": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~362922~90130255/canvas/c1"
+                }
+              ],
+              "otherContent": [
+                "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~362922~90130255/list/luna"
+              ],
+              "width": 33159,
+              "height": 25627
+            }
+          ]
+        }
+      ],
+      "logo": {
+        "@id": "https://www.davidrumsey.com/luna/images/LUNAIIIF80.png",
+        "format": "image/png"
+      },
+      "related": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~362922~90130255"
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@type": "sc:Manifest",
+      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~342752~90110897/manifest",
+      "label": "Road map of United States. (1)",
+      "attribution": "David Rumsey Historical Map Collection",
+      "service": {
+        "@context": "http://iiif.io/api/search/1/context.json",
+        "@id": "https://www.davidrumsey.com/luna/servlet/iiif/services/RUMSEY~8~1~342752~90110897/search",
+        "profile": "http://iiif.io/api/search/1/search"
+      },
+      "sequences": [
+        {
+          "@type": "sc:Sequence",
+          "canvases": [
+            {
+              "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~342752~90110897/canvas/c1",
+              "@type": "sc:Canvas",
+              "label": "Road map of United States. (1)",
+              "description": "",
+              "metadata": [
+                {
+                  "label": "Author",
+                  "value": "H.M. Gousha Company"
+                },
+                {
+                  "label": "Author",
+                  "value": "McCauley Map Case Company"
+                },
+                {
+                  "label": "Date",
+                  "value": "1939"
+                },
+                {
+                  "label": "Short Title",
+                  "value": "Road map of United States. (1)"
+                },
+                {
+                  "label": "Publisher",
+                  "value": "McCauley Map Case Company"
+                },
+                {
+                  "label": "Publisher Location",
+                  "value": "Chicago"
+                },
+                {
+                  "label": "Type",
+                  "value": "Separate Map"
+                },
+                {
+                  "label": "Obj Height cm",
+                  "value": "10"
+                },
+                {
+                  "label": "Obj Width cm",
+                  "value": "21"
+                },
+                {
+                  "label": "Scale 1",
+                  "value": "7,150,000"
+                },
+                {
+                  "label": "Note",
+                  "value": "Road map of the United States. Shows political boundaries, cities, topography, deserts, lakes, drainage, coastline, national parks, monuments and time zone boundaries. Features major highways, as well as paved, improved, graded and dirt roads. Highlights main connecting roads and roads that become \"bad during wet weather\". Lithograph in blue, red and white. Printed vertically in four segments spanning the continental United States; rolled as a scroll on two wooden dowel, with scroll mounted in metal case, which is covered in tan leather. Map viewable through clear plastic lid section of case. Scroll format allows viewer to see different parts of map by winding red plastic knobs at the side of case. This section covers southern Georgia and northern Florida, and includes the title cartouche."
+                },
+                {
+                  "label": "Country",
+                  "value": "United States"
+                },
+                {
+                  "label": "Subject",
+                  "value": "Roads"
+                },
+                {
+                  "label": "Full Title",
+                  "value": "Road map of United States, prepared especially for McCauley Map Case Company, Detroit Michigan. Copyright 1939 by The H.M. Goushá Company, Chicago, Ill. Lithographed in U.S.A. (1)"
+                },
+                {
+                  "label": "List No",
+                  "value": "14335.001"
+                },
+                {
+                  "label": "Series No",
+                  "value": "1"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "H.M. Gousha Company"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "McCauley Map Case Company"
+                },
+                {
+                  "label": "Pub Date",
+                  "value": "1939"
+                },
+                {
+                  "label": "Pub Title",
+                  "value": "Road map of United States, prepared especially for McCauley Map Case Company, Detroit Michigan. Copyright 1939 by The H.M. Goushá Company, Chicago, Ill. Lithographed in U.S.A."
+                },
+                {
+                  "label": "Pub Note",
+                  "value": "Road map of the United States. Shows political boundaries, cities, topography, deserts, lakes, drainage, coastline, national parks, monuments and time zone boundaries. Features major highways, as well as paved, improved, graded and dirt roads. Highlights main connecting roads and roads that become \"bad during wet weather\". Relief shown with hachures. Includes a legend, bar scale and index indicating national park visiting seasons and admission fees. Lithograph in blue, red and white. Printed vertically in four segments spanning the continental United States; rolled as a scroll on two wooden dowel, with scroll mounted in metal case, which is covered in tan leather. Map viewable through clear plastic lid section of case. Scroll format allows viewer to see different parts of map by winding red plastic knobs at the side of case. Each segment of map is 39 x 16 cm, in case 10 x 21 x 4 cm."
+                },
+                {
+                  "label": "Pub List No",
+                  "value": "14335.000"
+                },
+                {
+                  "label": "Pub Type",
+                  "value": "Separate Map"
+                },
+                {
+                  "label": "Pub Maps",
+                  "value": "1"
+                },
+                {
+                  "label": "Pub Height cm",
+                  "value": "10"
+                },
+                {
+                  "label": "Pub Width cm",
+                  "value": "21"
+                },
+                {
+                  "label": "Image No",
+                  "value": "14335001.jp2"
+                },
+                {
+                  "label": "Download 1",
+                  "value": "<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/199/14335001.jp2 target=_blank>Full Image Download in JP2 Format</a>"
+                },
+                {
+                  "label": "Download 2",
+                  "value": "<a href=https://www.extensis.com/support/geoviewer-9 target=_blank >GeoViewer for JP2 and SID files</a>"
+                },
+                {
+                  "label": "Authors",
+                  "value": "H.M. Gousha Company; McCauley Map Case Company"
+                }
+              ],
+              "thumbnail": {
+                "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~342752~90110897/full/!96,96/0/default.jpg",
+                "format": "image/jpeg"
+              },
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "motivation": "sc:painting",
+                  "resource": {
+                    "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~342752~90110897/full/!1024,1024/0/default.jpg",
+                    "@type": "dctypes:Image",
+                    "service": {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~342752~90110897",
+                      "profile": "http://iiif.io/api/image/2/level1.json",
+                      "protocol": "http://iiif.io/api/image"
+                    },
+                    "format": "image/jpeg",
+                    "width": 4172,
+                    "height": 2108
+                  },
+                  "on": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~342752~90110897/canvas/c1"
+                }
+              ],
+              "otherContent": [
+                "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~342752~90110897/list/luna"
+              ],
+              "width": 4172,
+              "height": 2108
+            }
+          ]
+        }
+      ],
+      "logo": {
+        "@id": "https://www.davidrumsey.com/luna/images/LUNAIIIF80.png",
+        "format": "image/png"
+      },
+      "related": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~342752~90110897"
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@type": "sc:Manifest",
+      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~368449~90136013/manifest",
+      "label": "Index: Auto Map-Ic United States East of the Mississippi River.",
+      "attribution": "David Rumsey Historical Map Collection",
+      "service": {
+        "@context": "http://iiif.io/api/search/1/context.json",
+        "@id": "https://www.davidrumsey.com/luna/servlet/iiif/services/RUMSEY~8~1~368449~90136013/search",
+        "profile": "http://iiif.io/api/search/1/search"
+      },
+      "sequences": [
+        {
+          "@type": "sc:Sequence",
+          "canvases": [
+            {
+              "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~368449~90136013/canvas/c1",
+              "@type": "sc:Canvas",
+              "label": "Index: Auto Map-Ic United States East of the Mississippi River.",
+              "description": "",
+              "metadata": [
+                {
+                  "label": "Author",
+                  "value": "Anonymous"
+                },
+                {
+                  "label": "Date",
+                  "value": "1960"
+                },
+                {
+                  "label": "Short Title",
+                  "value": "Index: Auto Map-Ic United States East of the Mississippi River."
+                },
+                {
+                  "label": "Publisher",
+                  "value": "H.B. Lowry & Co."
+                },
+                {
+                  "label": "Publisher Location",
+                  "value": "London"
+                },
+                {
+                  "label": "Type",
+                  "value": "Index Map"
+                },
+                {
+                  "label": "Obj Height cm",
+                  "value": "32"
+                },
+                {
+                  "label": "Obj Width cm",
+                  "value": "17"
+                },
+                {
+                  "label": "Note",
+                  "value": "Date estimated."
+                },
+                {
+                  "label": "Country",
+                  "value": "United States"
+                },
+                {
+                  "label": "Subject",
+                  "value": "Automobile"
+                },
+                {
+                  "label": "Full Title",
+                  "value": "(Index map to) Auto Map-Ic United States East of the Mississippi River."
+                },
+                {
+                  "label": "List No",
+                  "value": "16253.002"
+                },
+                {
+                  "label": "Series No",
+                  "value": "2"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Anonymous"
+                },
+                {
+                  "label": "Pub Date",
+                  "value": "1960"
+                },
+                {
+                  "label": "Pub Title",
+                  "value": "Auto Map-Ic United States East of the Mississippi River."
+                },
+                {
+                  "label": "Pub Reference",
+                  "value": "Thomas O'Loughlin \"The Auto-Mapic map of Great Britain\" https://nottingham-repository.worktribe.com/output/992743"
+                },
+                {
+                  "label": "Pub Note",
+                  "value": "Plastic case with 15 maps and index map. Each map is brought into view by moving up or down the red side handles. Made for automobile drivers to be more convenient than a book of road maps. In the same series: Switzerland, Austria ,Sweden Germany, and U.S.A. Printed in Austria. See our 16193.000 for the Road Map of Great Britain, where the title is changed from Auto Map-Ic to Auto Mapic."
+                },
+                {
+                  "label": "Pub List No",
+                  "value": "16253.000"
+                },
+                {
+                  "label": "Pub Type",
+                  "value": "Regional Atlas"
+                },
+                {
+                  "label": "Pub Maps",
+                  "value": "15"
+                },
+                {
+                  "label": "Pub Height cm",
+                  "value": "32"
+                },
+                {
+                  "label": "Pub Width cm",
+                  "value": "17"
+                },
+                {
+                  "label": "Image No",
+                  "value": "16253002.jp2"
+                },
+                {
+                  "label": "Download 1",
+                  "value": "<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/218/16253002.jp2 target=_blank>Full Image Download in JP2 Format</a>"
+                },
+                {
+                  "label": "Download 2",
+                  "value": "<a href=https://www.extensis.com/support/geoviewer-9 target=_blank >GeoViewer for JP2 and SID files</a>"
+                },
+                {
+                  "label": "Authors",
+                  "value": "Anonymous"
+                }
+              ],
+              "thumbnail": {
+                "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~368449~90136013/full/!96,96/0/default.jpg",
+                "format": "image/jpeg"
+              },
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "motivation": "sc:painting",
+                  "resource": {
+                    "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~368449~90136013/full/!1024,1024/0/default.jpg",
+                    "@type": "dctypes:Image",
+                    "service": {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~368449~90136013",
+                      "profile": "http://iiif.io/api/image/2/level1.json",
+                      "protocol": "http://iiif.io/api/image"
+                    },
+                    "format": "image/jpeg",
+                    "width": 4826,
+                    "height": 8128
+                  },
+                  "on": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~368449~90136013/canvas/c1"
+                }
+              ],
+              "otherContent": [
+                "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~368449~90136013/list/luna"
+              ],
+              "width": 4826,
+              "height": 8128
+            }
+          ]
+        }
+      ],
+      "logo": {
+        "@id": "https://www.davidrumsey.com/luna/images/LUNAIIIF80.png",
+        "format": "image/png"
+      },
+      "related": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~368449~90136013"
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@type": "sc:Manifest",
+      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~368492~90136031/manifest",
+      "label": "Index: Auto Mapic Road Map of Great Britain.",
+      "attribution": "David Rumsey Historical Map Collection",
+      "service": {
+        "@context": "http://iiif.io/api/search/1/context.json",
+        "@id": "https://www.davidrumsey.com/luna/servlet/iiif/services/RUMSEY~8~1~368492~90136031/search",
+        "profile": "http://iiif.io/api/search/1/search"
+      },
+      "sequences": [
+        {
+          "@type": "sc:Sequence",
+          "canvases": [
+            {
+              "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~368492~90136031/canvas/c1",
+              "@type": "sc:Canvas",
+              "label": "Index: Auto Mapic Road Map of Great Britain.",
+              "description": "",
+              "metadata": [
+                {
+                  "label": "Author",
+                  "value": "Anonymous"
+                },
+                {
+                  "label": "Date",
+                  "value": "1960"
+                },
+                {
+                  "label": "Short Title",
+                  "value": "Index: Auto Mapic Road Map of Great Britain."
+                },
+                {
+                  "label": "Publisher",
+                  "value": "H.B. Lowry & Co."
+                },
+                {
+                  "label": "Publisher Location",
+                  "value": "London"
+                },
+                {
+                  "label": "Type",
+                  "value": "Index Map"
+                },
+                {
+                  "label": "Obj Height cm",
+                  "value": "32"
+                },
+                {
+                  "label": "Obj Width cm",
+                  "value": "17"
+                },
+                {
+                  "label": "Note",
+                  "value": "Date estimated."
+                },
+                {
+                  "label": "Country",
+                  "value": "Great Britain"
+                },
+                {
+                  "label": "Subject",
+                  "value": "Automobile"
+                },
+                {
+                  "label": "Full Title",
+                  "value": "(Index map to) Auto Mapic Road Map of Great Britain."
+                },
+                {
+                  "label": "List No",
+                  "value": "16193.001"
+                },
+                {
+                  "label": "Series No",
+                  "value": "1"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Anonymous"
+                },
+                {
+                  "label": "Pub Date",
+                  "value": "1960"
+                },
+                {
+                  "label": "Pub Title",
+                  "value": "Auto Mapic Road Map of Great Britain."
+                },
+                {
+                  "label": "Pub Reference",
+                  "value": "Thomas O'Loughlin \"The Auto-Mapic map of Great Britain\" https://nottingham-repository.worktribe.com/output/992743"
+                },
+                {
+                  "label": "Pub Note",
+                  "value": "Plastic case with 13 maps and index map. Each map is brought into view by moving up or down the red side handles. Made for automobile drivers to be more convenient than a book of road maps. In the same series: Switzerland, Austria ,Sweden Germany, and U.S.A. Printed in Austria. See our 16253.000 for the United States East of the Mississippi River, where the title is changed from Auto MapIc to Auto Map-Ic."
+                },
+                {
+                  "label": "Pub List No",
+                  "value": "16193.000"
+                },
+                {
+                  "label": "Pub Type",
+                  "value": "National Atlas"
+                },
+                {
+                  "label": "Pub Maps",
+                  "value": "13"
+                },
+                {
+                  "label": "Pub Height cm",
+                  "value": "32"
+                },
+                {
+                  "label": "Pub Width cm",
+                  "value": "17"
+                },
+                {
+                  "label": "Image No",
+                  "value": "16193001.jp2"
+                },
+                {
+                  "label": "Download 1",
+                  "value": "<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/218/16193001.jp2 target=_blank>Full Image Download in JP2 Format</a>"
+                },
+                {
+                  "label": "Download 2",
+                  "value": "<a href=https://www.extensis.com/support/geoviewer-9 target=_blank >GeoViewer for JP2 and SID files</a>"
+                },
+                {
+                  "label": "Authors",
+                  "value": "Anonymous"
+                }
+              ],
+              "thumbnail": {
+                "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~368492~90136031/full/!96,96/0/default.jpg",
+                "format": "image/jpeg"
+              },
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "motivation": "sc:painting",
+                  "resource": {
+                    "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~368492~90136031/full/!1024,1024/0/default.jpg",
+                    "@type": "dctypes:Image",
+                    "service": {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~368492~90136031",
+                      "profile": "http://iiif.io/api/image/2/level1.json",
+                      "protocol": "http://iiif.io/api/image"
+                    },
+                    "format": "image/jpeg",
+                    "width": 4829,
+                    "height": 8139
+                  },
+                  "on": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~368492~90136031/canvas/c1"
+                }
+              ],
+              "otherContent": [
+                "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~368492~90136031/list/luna"
+              ],
+              "width": 4829,
+              "height": 8139
+            }
+          ]
+        }
+      ],
+      "logo": {
+        "@id": "https://www.davidrumsey.com/luna/images/LUNAIIIF80.png",
+        "format": "image/png"
+      },
+      "related": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~368492~90136031"
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@type": "sc:Manifest",
+      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~365652~90132909/manifest",
+      "label": "8418 Every Building On The Sunset Strip",
+      "attribution": "David Rumsey Historical Map Collection",
+      "service": {
+        "@context": "http://iiif.io/api/search/1/context.json",
+        "@id": "https://www.davidrumsey.com/luna/servlet/iiif/services/RUMSEY~8~1~365652~90132909/search",
+        "profile": "http://iiif.io/api/search/1/search"
+      },
+      "sequences": [
+        {
+          "@type": "sc:Sequence",
+          "canvases": [
+            {
+              "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~365652~90132909/canvas/c1",
+              "@type": "sc:Canvas",
+              "label": "8418 Every Building On The Sunset Strip",
+              "description": "",
+              "metadata": [
+                {
+                  "label": "Author",
+                  "value": "Ruscha, Edward"
+                },
+                {
+                  "label": "Date",
+                  "value": "1966"
+                },
+                {
+                  "label": "Short Title",
+                  "value": "8418 Every Building On The Sunset Strip"
+                },
+                {
+                  "label": "Type",
+                  "value": "View"
+                },
+                {
+                  "label": "Type",
+                  "value": "Artwork"
+                },
+                {
+                  "label": "Obj Height cm",
+                  "value": "19"
+                },
+                {
+                  "label": "Obj Width cm",
+                  "value": "30"
+                },
+                {
+                  "label": "Note",
+                  "value": "Copyright 1966 by Edward Ruscha, Los Angeles, California."
+                },
+                {
+                  "label": "City",
+                  "value": "Los Angeles (Calif.)"
+                },
+                {
+                  "label": "Subject",
+                  "value": "Art"
+                },
+                {
+                  "label": "Full Title",
+                  "value": "8418 Every Building On The Sunset Strip"
+                },
+                {
+                  "label": "List No",
+                  "value": "16172.012"
+                },
+                {
+                  "label": "Series No",
+                  "value": "12"
+                },
+                {
+                  "label": "Page No",
+                  "value": "9"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Ruscha, Edward"
+                },
+                {
+                  "label": "Pub Date",
+                  "value": "1966"
+                },
+                {
+                  "label": "Pub Title",
+                  "value": "Every Building On The Sunset Strip"
+                },
+                {
+                  "label": "Pub List No",
+                  "value": "16172.000"
+                },
+                {
+                  "label": "Pub Type",
+                  "value": "View"
+                },
+                {
+                  "label": "Pub Type",
+                  "value": "Artwork"
+                },
+                {
+                  "label": "Pub Height cm",
+                  "value": "19"
+                },
+                {
+                  "label": "Pub Width cm",
+                  "value": "15"
+                },
+                {
+                  "label": "Image No",
+                  "value": "16172012.jp2"
+                },
+                {
+                  "label": "Authors",
+                  "value": "Ruscha, Edward"
+                }
+              ],
+              "thumbnail": {
+                "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~365652~90132909/full/!96,96/0/default.jpg",
+                "format": "image/jpeg"
+              },
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "motivation": "sc:painting",
+                  "resource": {
+                    "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~365652~90132909/full/!1024,1024/0/default.jpg",
+                    "@type": "dctypes:Image",
+                    "service": {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~365652~90132909",
+                      "profile": "http://iiif.io/api/image/2/level1.json",
+                      "protocol": "http://iiif.io/api/image"
+                    },
+                    "format": "image/jpeg",
+                    "width": 7470,
+                    "height": 4757
+                  },
+                  "on": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~365652~90132909/canvas/c1"
+                }
+              ],
+              "width": 7470,
+              "height": 4757
+            }
+          ]
+        }
+      ],
+      "logo": {
+        "@id": "https://www.davidrumsey.com/luna/images/LUNAIIIF80.png",
+        "format": "image/png"
+      },
+      "related": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~365652~90132909"
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@id": "https://purl.stanford.edu/tm299jd2526/iiif/manifest",
+      "@type": "sc:Manifest",
+      "label": "Photo - Auto Maps. Photograph of every turn, together with a Topographical Outline of Road Showing Railroad Crossings, Bridges, School Houses and All Landmarks, with Accurate Distances Between. (within) Photo-Auto Maps, New York to Albany and Saratoga Springs. Saratoga Springs to Albany and New York. Press of Walton & Spencer Company, Chicago",
+      "attribution": "Property rights reside with the repository, Copyright (c) Stanford University.  Images may be reproduced or transmitted, but not for commercial use. For commercial use or commercial republication, contact rumseymapcenter@stanford.edu This work is licensed under a Creative Commons License. By downloading any images from this site, you agree to the terms of that license. ",
+      "logo": {
+        "@id": "https://stacks.stanford.edu/image/iiif/wy534zh7137/SULAIR_rosette/full/400,/0/default.jpg",
+        "service": {
+          "@context": "http://iiif.io/api/image/2/context.json",
+          "@id": "https://stacks.stanford.edu/image/iiif/wy534zh7137/SULAIR_rosette",
+          "profile": "http://iiif.io/api/image/2/level2.json"
+        }
+      },
+      "license": "https://creativecommons.org/licenses/by-nc-sa/3.0/legalcode",
+      "seeAlso": {
+        "@id": "https://purl.stanford.edu/tm299jd2526.mods",
+        "format": "application/mods+xml"
+      },
+      "metadata": [
+        {
+          "label": "Available Online",
+          "value": "<a href='https://purl.stanford.edu/tm299jd2526'>https://purl.stanford.edu/tm299jd2526</a>"
+        },
+        {
+          "label": "Title",
+          "value": "Photo - Auto Maps. Photograph of every turn, together with a Topographical Outline of Road Showing Railroad Crossings, Bridges, School Houses and All Landmarks, with Accurate Distances Between. (within) Photo-Auto Maps, New York to Albany and Saratoga Springs. Saratoga Springs to Albany and New York. Press of Walton & Spencer Company, Chicago"
+        },
+        {
+          "label": "Contributor",
+          "value": "Chapin, Gardner S."
+        },
+        {
+          "label": "Contributor",
+          "value": "Rand McNally and Company."
+        },
+        {
+          "label": "Contributor",
+          "value": "Schumacher, Arthur H."
+        },
+        {
+          "label": "Contributor",
+          "value": "Walton & Spencer Company."
+        },
+        {
+          "label": "Type",
+          "value": "Text"
+        },
+        {
+          "label": "Type",
+          "value": "Atlases."
+        },
+        {
+          "label": "Type",
+          "value": "Maps"
+        },
+        {
+          "label": "Type",
+          "value": "Road maps."
+        },
+        {
+          "label": "Type",
+          "value": "Topographic maps"
+        },
+        {
+          "label": "Type",
+          "value": "Photographs."
+        },
+        {
+          "label": "Format",
+          "value": "1 volume : 9 maps ; 23 x 15 cm."
+        },
+        {
+          "label": "Language",
+          "value": "English"
+        },
+        {
+          "label": "Description",
+          "value": "Guide Book."
+        },
+        {
+          "label": "Description",
+          "value": "On cover: \"The Rand McNally Photo-Auto Maps and Guide Book.\" Rand McNally is not listed on the title page. A very unusual presentation of nine maps showing the route from New York to Albany and Saratoga Springs and return, with photographs showing with printed arrows each turn to make in the road. Eventually, route signs were posted for automobiles, but before that occurred, this book filled a need. The preface shows seven \"Divisions\" that maps were published for, including Chicago, Detroit, Toledo, Cleveland, Buffalo, Rochester and Syracuse, and New York City. The photographs in this copy are wonderful and give a real feeling of the environment people traveled through in the first years of the automobile. Buisseret calls the presentation \"ingenious\" though he notes that not many journeys occurred at night, when these photos would not be very useful. Bound with leather covers. In gold on the front reads the text, \"The Rand McNally Photo=Auto Maps and Guide Book. New York to Albany and Saratoga Springs. Saratoga Springs to Albany and New York.\""
+        },
+        {
+          "label": "Description",
+          "value": "References: Buisseret \"Sea Charts to Satellite Images\" p270-271; not in Phillips."
+        },
+        {
+          "label": "Local note",
+          "value": "Pub list no.: 0268.000."
+        },
+        {
+          "label": "Subject",
+          "value": "Atlases > New York (State) > 20th century"
+        },
+        {
+          "label": "Subject",
+          "value": "Photographs > Roads > New York (State) > 20th century"
+        },
+        {
+          "label": "Subject",
+          "value": "Topographic maps > New York (State) > 20th century"
+        },
+        {
+          "label": "Subject",
+          "value": "Roads > New York (State) > Maps > 20th century"
+        },
+        {
+          "label": "Subject",
+          "value": "Railroads > New York (State) > Maps > 20th century"
+        },
+        {
+          "label": "Subject",
+          "value": "Bridges > New York (State) > Maps > 20th century"
+        },
+        {
+          "label": "Subject",
+          "value": "Schools > New York (State) > Maps > 20th century"
+        },
+        {
+          "label": "Subject",
+          "value": "Distances > New York (State) > Maps > 20th century"
+        },
+        {
+          "label": "Subject",
+          "value": "New York (State) > Maps > 20th century"
+        },
+        {
+          "label": "Date",
+          "value": "1907"
+        },
+        {
+          "label": "Date",
+          "value": "1907"
+        },
+        {
+          "label": "Identifier",
+          "value": "https://purl.stanford.edu/tm299jd2526"
+        },
+        {
+          "label": "Publisher",
+          "value": "The Motor Car Supply Co,"
+        },
+        {
+          "label": "Relation",
+          "value": "David Rumsey Map Collection at Stanford University Libraries"
+        },
+        {
+          "label": "Record published",
+          "value": "2016-11-29"
+        }
+      ],
+      "description": "Guide Book.",
+      "thumbnail": {
+        "@id": "https://stacks.stanford.edu/image/iiif/pk430xq1990%2F0268a/full/!400,400/0/default.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "service": {
+          "@context": "http://iiif.io/api/image/2/context.json",
+          "@id": "https://stacks.stanford.edu/image/iiif/pk430xq1990%2F0268a",
+          "profile": "http://iiif.io/api/image/2/level2.json"
+        },
+        "width": 400,
+        "height": 292
+      },
+      "sequences": [
+        {
+          "@id": "https://purl.stanford.edu/tm299jd2526/iiif/manifest#sequence-1",
+          "@type": "sc:Sequence",
+          "label": "Current order",
+          "viewingDirection": "left-to-right",
+          "canvases": [
+            {
+              "@id": "https://purl.stanford.edu/tm299jd2526/iiif/canvas/cocina-fileSet-kx754fp8462-kx754fp8462_1",
+              "@type": "sc:Canvas",
+              "label": "Photo-auto maps--Albany to Saratoga Springs. No. 26C. (Saratoga Springs). No. 27C\n   United States Hotel, Saratoga Springs, N.Y. Photo auto map plate no. 37. (Compiled by Gardner S.\n   Chapin and Arthur H. Schumacher). Copyright 1907, G.S. Chapin, Chicago. (Published by the Motor\n   Car Supply Co. ... The Automobile Supply Co. ... Chicago, Ill.)",
+              "height": 3878,
+              "width": 5178,
+              "rendering": [
+                {
+                  "@id": "https://stacks.stanford.edu/file/kx754fp8462/0268024.jp2",
+                  "label": "Original source file (3.62 MB)",
+                  "format": "image/jp2"
+                }
+              ],
+              "images": [
+                {
+                  "@id": "https://purl.stanford.edu/tm299jd2526/iiif/annotation/https:%2F%2Fcocina.sul.stanford.edu%2Ffile%2Fkx754fp8462-kx754fp8462_1%2F0268024.jp2",
+                  "@type": "oa:Annotation",
+                  "motivation": "sc:painting",
+                  "on": "https://purl.stanford.edu/tm299jd2526/iiif/canvas/cocina-fileSet-kx754fp8462-kx754fp8462_1",
+                  "resource": {
+                    "@id": "https://stacks.stanford.edu/image/iiif/kx754fp8462%2F0268024/full/full/0/default.jpg",
+                    "@type": "dctypes:Image",
+                    "format": "image/jpeg",
+                    "height": 3878,
+                    "width": 5178,
+                    "service": {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://stacks.stanford.edu/image/iiif/kx754fp8462%2F0268024",
+                      "profile": "http://iiif.io/api/image/2/level2.json"
+                    }
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@type": "sc:Manifest",
+      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~293034~90065330/manifest",
+      "label": "Panorama oder Zirkel-Aussicht vom Rigi Berg",
+      "attribution": "David Rumsey Historical Map Collection",
+      "service": {
+        "@context": "http://iiif.io/api/search/1/context.json",
+        "@id": "https://www.davidrumsey.com/luna/servlet/iiif/services/RUMSEY~8~1~293034~90065330/search",
+        "profile": "http://iiif.io/api/search/1/search"
+      },
+      "sequences": [
+        {
+          "@type": "sc:Sequence",
+          "canvases": [
+            {
+              "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~293034~90065330/canvas/c1",
+              "@type": "sc:Canvas",
+              "label": "Panorama oder Zirkel-Aussicht vom Rigi Berg",
+              "description": "",
+              "metadata": [
+                {
+                  "label": "Author",
+                  "value": "Pfyffer von Wyher, Ludwig"
+                },
+                {
+                  "label": "Author",
+                  "value": "Schmid, David Alois"
+                },
+                {
+                  "label": "Author",
+                  "value": "Schmid, Franz"
+                },
+                {
+                  "label": "Author",
+                  "value": "Hegi, F."
+                },
+                {
+                  "label": "Date",
+                  "value": "1820"
+                },
+                {
+                  "label": "Short Title",
+                  "value": "Panorama oder Zirkel-Aussicht vom Rigi Berg"
+                },
+                {
+                  "label": "Publisher",
+                  "value": "Xaver Meyer"
+                },
+                {
+                  "label": "Publisher Location",
+                  "value": "Luzern"
+                },
+                {
+                  "label": "Type",
+                  "value": "Case Map"
+                },
+                {
+                  "label": "Obj Height cm",
+                  "value": "54"
+                },
+                {
+                  "label": "Obj Width cm",
+                  "value": "54"
+                },
+                {
+                  "label": "Scale 1",
+                  "value": "None shown"
+                },
+                {
+                  "label": "Note",
+                  "value": "Hand color, panoramic circular Bird's-eye-view of the Rigi Mountian, Switzerland on sheet 54x54, dissected into 15 sections of 18x11, mounted on linen and folded into slipcase 18.5x11.5. By Ludwig Pfyffer von Wyher a pioneer of modern cartography and three dimensional maps in Switzerland. Title pasted on the front cover of the case and \"Guide des voyageurs sur le Mont Righi. Lucerne chez X. Meyer\" on the back. Rigi mountain drawn from the northwest side. Relief shown pictorially, by shadings and spot heights. Includes 4 vignettes insets in the corners show three different views form the mountain and small map of the are \"Karte des vier Waldstadter sees'\". Drawn by F. Schmid & D.A. Schmid; engraved by F. Hegi."
+                },
+                {
+                  "label": "Country",
+                  "value": "Switzerland"
+                },
+                {
+                  "label": "Region",
+                  "value": "Alps"
+                },
+                {
+                  "label": "Subject",
+                  "value": "Data Visualization"
+                },
+                {
+                  "label": "Subject",
+                  "value": "Panorama Round"
+                },
+                {
+                  "label": "Subject",
+                  "value": "Mountains; Rivers"
+                },
+                {
+                  "label": "Full Title",
+                  "value": "Panorama oder Zirkel-Aussicht vom Rigi Berg : auf dem Kulm gezeichnet von Ludwig Pfyffer von Wyher ; radirt v. Gebr. Fr. und Al. Schmid. (Back cover) Guide des voyageurs sur le Mont Righi. Lucerne chez X. Meyer. (4 insets)."
+                },
+                {
+                  "label": "List No",
+                  "value": "11514.002"
+                },
+                {
+                  "label": "Series No",
+                  "value": "2"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Pfyffer von Wyher, Ludwig"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Schmid, David Alois"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Schmid, Franz"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Hegi, F."
+                },
+                {
+                  "label": "Pub Date",
+                  "value": "1820"
+                },
+                {
+                  "label": "Pub Title",
+                  "value": "Panorama oder Zirkel-Aussicht vom Rigi Berg : auf dem Kulm gezeichnet von Ludwig Pfyffer von Wyher ; radirt v. Gebr. Fr. und Al. Schmid. (Back cover) Guide des voyageurs sur le Mont Righi. Lucerne chez X. Meyer. (4 insets)."
+                },
+                {
+                  "label": "Pub Note",
+                  "value": "See our 16514.000 for another version of this panorama."
+                },
+                {
+                  "label": "Pub List No",
+                  "value": "11514.000"
+                },
+                {
+                  "label": "Pub Type",
+                  "value": "Case Map"
+                },
+                {
+                  "label": "Pub Height cm",
+                  "value": "19"
+                },
+                {
+                  "label": "Pub Width cm",
+                  "value": "12"
+                },
+                {
+                  "label": "Image No",
+                  "value": "11514002.jp2"
+                },
+                {
+                  "label": "Download 1",
+                  "value": "<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/171/11514002.jp2 target=_blank>Full Image Download in JP2 Format</a>"
+                },
+                {
+                  "label": "Download 2",
+                  "value": "<a href=\"https://www.extensis.com/support/geoviewer-9\" target=\"_blank\">GeoViewer for JP2 and SID files</a>"
+                },
+                {
+                  "label": "Authors",
+                  "value": "Pfyffer von Wyher, Ludwig; Schmid, David Alois; Schmid, Franz; Hegi, F."
+                }
+              ],
+              "thumbnail": {
+                "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~293034~90065330/full/!96,96/0/default.jpg",
+                "format": "image/jpeg"
+              },
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "motivation": "sc:painting",
+                  "resource": {
+                    "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~293034~90065330/full/!1024,1024/0/default.jpg",
+                    "@type": "dctypes:Image",
+                    "service": {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~293034~90065330",
+                      "profile": "http://iiif.io/api/image/2/level1.json",
+                      "protocol": "http://iiif.io/api/image"
+                    },
+                    "format": "image/jpeg",
+                    "width": 13220,
+                    "height": 13052
+                  },
+                  "on": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~293034~90065330/canvas/c1"
+                }
+              ],
+              "otherContent": [
+                "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~293034~90065330/list/luna"
+              ],
+              "width": 13220,
+              "height": 13052
+            }
+          ]
+        }
+      ],
+      "logo": {
+        "@id": "https://www.davidrumsey.com/luna/images/LUNAIIIF80.png",
+        "format": "image/png"
+      },
+      "related": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~293034~90065330"
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@type": "sc:Manifest",
+      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~316466~90085006/manifest",
+      "label": "Five Japans",
+      "attribution": "David Rumsey Historical Map Collection",
+      "service": {
+        "@context": "http://iiif.io/api/search/1/context.json",
+        "@id": "https://www.davidrumsey.com/luna/servlet/iiif/services/RUMSEY~8~1~316466~90085006/search",
+        "profile": "http://iiif.io/api/search/1/search"
+      },
+      "sequences": [
+        {
+          "@type": "sc:Sequence",
+          "canvases": [
+            {
+              "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~316466~90085006/canvas/c1",
+              "@type": "sc:Canvas",
+              "label": "Five Japans",
+              "description": "",
+              "metadata": [
+                {
+                  "label": "Author",
+                  "value": "Harrison, Richard Edes"
+                },
+                {
+                  "label": "Date",
+                  "value": "1936"
+                },
+                {
+                  "label": "Short Title",
+                  "value": "Five Japans"
+                },
+                {
+                  "label": "Publisher",
+                  "value": "Time Inc."
+                },
+                {
+                  "label": "Publisher Location",
+                  "value": "New York, N.Y"
+                },
+                {
+                  "label": "Type",
+                  "value": "Separate Map"
+                },
+                {
+                  "label": "Obj Height cm",
+                  "value": "36"
+                },
+                {
+                  "label": "Obj Width cm",
+                  "value": "57"
+                },
+                {
+                  "label": "Scale 1",
+                  "value": "Variable"
+                },
+                {
+                  "label": "Note",
+                  "value": "Five thematic maps of Japan on 1 sheet. Drawn by Richard Edes Harrison for TIME Fortune weekly magazine. Published as supplement to Fortune Magazine, 1936. Map shows geographical, physical, mining and mineral resources aspects, major cities, ports, fortifications, population, routes and distances. Relief shown by shadings. Includes notes, topography and table of \"Raw materials\"."
+                },
+                {
+                  "label": "Country",
+                  "value": "Japan"
+                },
+                {
+                  "label": "Subject",
+                  "value": "Thematic"
+                },
+                {
+                  "label": "Subject",
+                  "value": "Data Visualization"
+                },
+                {
+                  "label": "Full Title",
+                  "value": "Five Japans : I- Japan is coal and Iron. II- Japan is the Japanese. III- Japan is the land to till. IV- Japan is six cities. V- Japan is Rock and metal. Harrison."
+                },
+                {
+                  "label": "List No",
+                  "value": "13204.000"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Harrison, Richard Edes"
+                },
+                {
+                  "label": "Pub Date",
+                  "value": "1936"
+                },
+                {
+                  "label": "Pub Title",
+                  "value": "Five Japan : I- Japan is coal and Iron. II- Japan is the Japanese. III- Japan is the land to till. IV- Japan is six cities. V- Japan is Rock and metal. Harrison."
+                },
+                {
+                  "label": "Pub Note",
+                  "value": "See note field above."
+                },
+                {
+                  "label": "Pub List No",
+                  "value": "13204.000"
+                },
+                {
+                  "label": "Pub Type",
+                  "value": "Separate Map"
+                },
+                {
+                  "label": "Pub Height cm",
+                  "value": "36"
+                },
+                {
+                  "label": "Pub Width cm",
+                  "value": "57"
+                },
+                {
+                  "label": "Image No",
+                  "value": "13204000.jp2"
+                },
+                {
+                  "label": "Download 1",
+                  "value": "<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/179/13204000.jp2 target=_blank>Full Image Download in JP2 Format</a>"
+                },
+                {
+                  "label": "Download 2",
+                  "value": "<a href=https://www.extensis.com/support/geoviewer-9 target=_blank >GeoViewer for JP2 and SID files</a>"
+                },
+                {
+                  "label": "Authors",
+                  "value": "Harrison, Richard Edes"
+                }
+              ],
+              "thumbnail": {
+                "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~316466~90085006/full/!96,96/0/default.jpg",
+                "format": "image/jpeg"
+              },
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "motivation": "sc:painting",
+                  "resource": {
+                    "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~316466~90085006/full/!1024,1024/0/default.jpg",
+                    "@type": "dctypes:Image",
+                    "service": {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~316466~90085006",
+                      "profile": "http://iiif.io/api/image/2/level1.json",
+                      "protocol": "http://iiif.io/api/image"
+                    },
+                    "format": "image/jpeg",
+                    "width": 11376,
+                    "height": 7168
+                  },
+                  "on": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~316466~90085006/canvas/c1"
+                }
+              ],
+              "otherContent": [
+                "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~316466~90085006/list/luna"
+              ],
+              "width": 11376,
+              "height": 7168
+            }
+          ]
+        }
+      ],
+      "logo": {
+        "@id": "https://www.davidrumsey.com/luna/images/LUNAIIIF80.png",
+        "format": "image/png"
+      },
+      "related": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~316466~90085006"
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@type": "sc:Manifest",
+      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~274101~90047832/manifest",
+      "label": "Africa in maps. Richard Edes Harrison, Sept. 1941",
+      "attribution": "David Rumsey Historical Map Collection",
+      "service": {
+        "@context": "http://iiif.io/api/search/1/context.json",
+        "@id": "https://www.davidrumsey.com/luna/servlet/iiif/services/RUMSEY~8~1~274101~90047832/search",
+        "profile": "http://iiif.io/api/search/1/search"
+      },
+      "sequences": [
+        {
+          "@type": "sc:Sequence",
+          "canvases": [
+            {
+              "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~274101~90047832/canvas/c1",
+              "@type": "sc:Canvas",
+              "label": "Africa in maps. Richard Edes Harrison, Sept. 1941",
+              "description": "",
+              "metadata": [
+                {
+                  "label": "Author",
+                  "value": "Harrison, Richard Edes"
+                },
+                {
+                  "label": "Date",
+                  "value": "1941"
+                },
+                {
+                  "label": "Short Title",
+                  "value": "Africa in maps. Richard Edes Harrison, Sept. 1941"
+                },
+                {
+                  "label": "Publisher",
+                  "value": "American Geographical Society"
+                },
+                {
+                  "label": "Publisher Location",
+                  "value": "New York"
+                },
+                {
+                  "label": "Type",
+                  "value": "Separate Map"
+                },
+                {
+                  "label": "Obj Height cm",
+                  "value": "35"
+                },
+                {
+                  "label": "Obj Width cm",
+                  "value": "57"
+                },
+                {
+                  "label": "Scale 1",
+                  "value": "30,000,000"
+                },
+                {
+                  "label": "Note",
+                  "value": "Two color maps of physical geography and political complexion of Africa. Relief shown by shadings and spot heights. Shows volcanoes, lakes, streams, forests, political boundaries, capitals, cities, population, transportation, etc. Includes text and charts. Insets on lower panel: Rain, exploration, drainage, population, races, German colonies and Islam. Scale 1:110,000,000. On verso: text and uncolored photographs."
+                },
+                {
+                  "label": "Subject",
+                  "value": "Pictorial map"
+                },
+                {
+                  "label": "Full Title",
+                  "value": "Africa in maps. Richard Edes Harrison, Sept. 1941. (on verso text) Africa. Photographs from Richard U. Light and Mary Light, \"Focus on Africa\" American Geographical Society of New York, 1941. (inset)."
+                },
+                {
+                  "label": "List No",
+                  "value": "9806.000"
+                },
+                {
+                  "label": "Engraver or Printer",
+                  "value": "Light, Richard U."
+                },
+                {
+                  "label": "Engraver or Printer",
+                  "value": "Light, Mary"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Harrison, Richard Edes"
+                },
+                {
+                  "label": "Pub Date",
+                  "value": "1941"
+                },
+                {
+                  "label": "Pub Title",
+                  "value": "Africa in maps. Richard Edes Harrison, Sept. 1941. (on verso text) Africa. Photographs from Richard U. Light and Mary Light, \"Focus on Africa\" American Geographical Society of New York, 1941. (inset)."
+                },
+                {
+                  "label": "Pub Note",
+                  "value": "See note field above."
+                },
+                {
+                  "label": "Pub List No",
+                  "value": "9806.000"
+                },
+                {
+                  "label": "Pub Type",
+                  "value": "Separate Map"
+                },
+                {
+                  "label": "Pub Maps",
+                  "value": "2"
+                },
+                {
+                  "label": "Pub Height cm",
+                  "value": "35"
+                },
+                {
+                  "label": "Pub Width cm",
+                  "value": "57"
+                },
+                {
+                  "label": "Image No",
+                  "value": "9806000.jp2"
+                },
+                {
+                  "label": "Download 1",
+                  "value": "<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/162/9806000.jp2 target=_blank>Full Image Download in JP2 Format</a>"
+                },
+                {
+                  "label": "Download 2",
+                  "value": "<a href=\"https://www.extensis.com/support/geoviewer-9\" target=\"_blank\">GeoViewer for JP2 and SID files</a>"
+                },
+                {
+                  "label": "Authors",
+                  "value": "Harrison, Richard Edes"
+                }
+              ],
+              "thumbnail": {
+                "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~274101~90047832/full/!96,96/0/default.jpg",
+                "format": "image/jpeg"
+              },
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "motivation": "sc:painting",
+                  "resource": {
+                    "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~274101~90047832/full/!1024,1024/0/default.jpg",
+                    "@type": "dctypes:Image",
+                    "service": {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~274101~90047832",
+                      "profile": "http://iiif.io/api/image/2/level1.json",
+                      "protocol": "http://iiif.io/api/image"
+                    },
+                    "format": "image/jpeg",
+                    "width": 11308,
+                    "height": 7142
+                  },
+                  "on": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~274101~90047832/canvas/c1"
+                }
+              ],
+              "otherContent": [
+                "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~274101~90047832/list/luna"
+              ],
+              "width": 11308,
+              "height": 7142
+            }
+          ]
+        }
+      ],
+      "logo": {
+        "@id": "https://www.davidrumsey.com/luna/images/LUNAIIIF80.png",
+        "format": "image/png"
+      },
+      "related": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~274101~90047832"
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@id": "https://purl.stanford.edu/nm477yr8537/iiif/manifest",
+      "@type": "sc:Manifest",
+      "label": "Geographie des Plantes Equin Oxiales. Tableau Physique des Andes et Pays voisins, dresse d'apres des observations et des mesures prises sur les lieux depuis le 10(degree) degre de latitude boreale jusquau 10(degree) de latitude australe en 1799, 1800, 1801, 1802 et 1803. Par Alexandre de Humboldt et Aime Bonpland. Esquisse et redige par M. de Humboldt dessine par Schonberger et Turpin a paris en 1805, grave par bouquet, la lettre par beauble, imprime par Langlois",
+      "attribution": "Property rights reside with the repository, Copyright (c) Stanford University.  Images may be reproduced or transmitted, but not for commercial use. For commercial use or commercial republication, contact rumseymapcenter@stanford.edu This work is licensed under a Creative Commons License. By downloading any images from this site, you agree to the terms of that license. ",
+      "logo": {
+        "@id": "https://stacks.stanford.edu/image/iiif/wy534zh7137/SULAIR_rosette/full/400,/0/default.jpg",
+        "service": {
+          "@context": "http://iiif.io/api/image/2/context.json",
+          "@id": "https://stacks.stanford.edu/image/iiif/wy534zh7137/SULAIR_rosette",
+          "profile": "http://iiif.io/api/image/2/level2.json"
+        }
+      },
+      "license": "https://creativecommons.org/licenses/by-nc-sa/3.0/legalcode",
+      "seeAlso": {
+        "@id": "https://purl.stanford.edu/nm477yr8537.mods",
+        "format": "application/mods+xml"
+      },
+      "metadata": [
+        {
+          "label": "Available Online",
+          "value": "<a href='https://purl.stanford.edu/nm477yr8537'>https://purl.stanford.edu/nm477yr8537</a>"
+        },
+        {
+          "label": "Title",
+          "value": "Geographie des Plantes Equin Oxiales. Tableau Physique des Andes et Pays voisins, dresse d'apres des observations et des mesures prises sur les lieux depuis le 10(degree) degre de latitude boreale jusquau 10(degree) de latitude australe en 1799, 1800, 1801, 1802 et 1803. Par Alexandre de Humboldt et Aime Bonpland. Esquisse et redige par M. de Humboldt dessine par Schonberger et Turpin a paris en 1805, grave par bouquet, la lettre par beauble, imprime par Langlois"
+        },
+        {
+          "label": "Contributor",
+          "value": "Humboldt, Alexander (1769-1859)."
+        },
+        {
+          "label": "Contributor",
+          "value": "Beauble."
+        },
+        {
+          "label": "Contributor",
+          "value": "Bonpland, Aime (1773-1858)."
+        },
+        {
+          "label": "Contributor",
+          "value": "Bouquet, Louis."
+        },
+        {
+          "label": "Contributor",
+          "value": "Schonberger."
+        },
+        {
+          "label": "Contributor",
+          "value": "Turpin."
+        },
+        {
+          "label": "Type",
+          "value": "Map"
+        },
+        {
+          "label": "Type",
+          "value": "Cartographic image"
+        },
+        {
+          "label": "Format",
+          "value": "1 map ; 37 x 84 cm."
+        },
+        {
+          "label": "Description",
+          "value": "Separate Map."
+        },
+        {
+          "label": "Description",
+          "value": "Uncolored elevation profile of Equinoctial plants, and geology of Andes Region. Drafted by Humboldt designed by Schonberger and Turpin paris in 1805. Includes 2 tables showing distribution of plants and geology in the area. Shows large number of plant families, genera, and species names corresponding to the vicinity of the equator in America. Relief shown pictorially."
+        },
+        {
+          "label": "Local note",
+          "value": "Pub list no.: 11083.000."
+        },
+        {
+          "label": "Subject",
+          "value": "Vegetation > Maps"
+        },
+        {
+          "label": "Subject",
+          "value": "Andes > Maps"
+        },
+        {
+          "label": "Subject",
+          "value": "South America > Maps"
+        },
+        {
+          "label": "Coverage",
+          "value": "Scale not given."
+        },
+        {
+          "label": "Date",
+          "value": "1805"
+        },
+        {
+          "label": "Date",
+          "value": "1805"
+        },
+        {
+          "label": "Identifier",
+          "value": "https://purl.stanford.edu/nm477yr8537"
+        },
+        {
+          "label": "Publisher",
+          "value": "Langlois,"
+        },
+        {
+          "label": "Relation",
+          "value": "David Rumsey Map Collection at Stanford University Libraries"
+        },
+        {
+          "label": "Record published",
+          "value": "2017-01-06"
+        }
+      ],
+      "description": "Separate Map.",
+      "thumbnail": {
+        "@id": "https://stacks.stanford.edu/image/iiif/nm477yr8537%2F11083000/full/!400,400/0/default.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "service": {
+          "@context": "http://iiif.io/api/image/2/context.json",
+          "@id": "https://stacks.stanford.edu/image/iiif/nm477yr8537%2F11083000",
+          "profile": "http://iiif.io/api/image/2/level2.json"
+        },
+        "width": 400,
+        "height": 249
+      },
+      "sequences": [
+        {
+          "@id": "https://purl.stanford.edu/nm477yr8537/iiif/manifest#sequence-1",
+          "@type": "sc:Sequence",
+          "label": "Current order",
+          "viewingDirection": "left-to-right",
+          "canvases": [
+            {
+              "@id": "https://purl.stanford.edu/nm477yr8537/iiif/canvas/cocina-fileSet-nm477yr8537-nm477yr8537_1",
+              "@type": "sc:Canvas",
+              "label": "Image 1",
+              "height": 13406,
+              "width": 21500,
+              "rendering": [
+                {
+                  "@id": "https://stacks.stanford.edu/file/nm477yr8537/11083000.jp2",
+                  "label": "Original source file (51.8 MB)",
+                  "format": "image/jp2"
+                }
+              ],
+              "images": [
+                {
+                  "@id": "https://purl.stanford.edu/nm477yr8537/iiif/annotation/https:%2F%2Fcocina.sul.stanford.edu%2Ffile%2Fnm477yr8537-nm477yr8537_1%2F11083000.jp2",
+                  "@type": "oa:Annotation",
+                  "motivation": "sc:painting",
+                  "on": "https://purl.stanford.edu/nm477yr8537/iiif/canvas/cocina-fileSet-nm477yr8537-nm477yr8537_1",
+                  "resource": {
+                    "@id": "https://stacks.stanford.edu/image/iiif/nm477yr8537%2F11083000/full/full/0/default.jpg",
+                    "@type": "dctypes:Image",
+                    "format": "image/jpeg",
+                    "height": 13406,
+                    "width": 21500,
+                    "service": {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://stacks.stanford.edu/image/iiif/nm477yr8537%2F11083000",
+                      "profile": "http://iiif.io/api/image/2/level2.json"
+                    }
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
